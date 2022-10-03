@@ -29,5 +29,17 @@ namespace isrpoLR1
         {
 
         }
+
+        private void Button_Click(object sender, RoutedEventArgs e)
+        {
+
+        }
+
+        private void LetsgoBtn_Click(object sender, RoutedEventArgs e)
+        {
+            this.Hide();
+            Window1 window1=new Window1();
+            window1.Show();
+        }
     }
 }
