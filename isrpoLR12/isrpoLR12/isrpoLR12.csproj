@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{B214FF28-9E02-4836-9192-B07583D10D20}</ProjectGuid>
+    <ProjectGuid>{D84DA7EC-764D-4506-8050-68C7D2F17DDE}</ProjectGuid>
     <OutputType>WinExe</OutputType>
     <RootNamespace>isrpoLR12</RootNamespace>
     <AssemblyName>isrpoLR12</AssemblyName>
