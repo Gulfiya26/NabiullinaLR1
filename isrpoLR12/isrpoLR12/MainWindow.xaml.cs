@@ -24,5 +24,8 @@ namespace isrpoLR12
         {
             InitializeComponent();
         }
+
+       
     }
 }
+

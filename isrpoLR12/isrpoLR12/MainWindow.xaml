@@ -7,6 +7,8 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
     <Grid>
-        
+        <Label FontFamily="raleway" FontSize="40" HorizontalAlignment="Center"  Content="Nabiullina Gulfiya" Width="330" Margin="231,82,231,265"/>
+        <TextBox Name="TB" Margin="127,187,127,188"></TextBox>
+        <Button Content="Lets go" Click="LetsgoBtn_Click" Margin="318,276,318,103"></Button>
     </Grid>
 </Window>
