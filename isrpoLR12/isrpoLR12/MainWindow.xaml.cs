@@ -25,7 +25,17 @@ namespace isrpoLR12
             InitializeComponent();
         }
 
-       
+        private void LetsgoBtn_Click(object sender, RoutedEventArgs e)
+        {
+            if (TB.Text == "1234")
+            {
+                this.Hide();
+                Window1 w1 = new Window1();
+                w1.Show();
+            }
+            else
+                MessageBox.Show("Неправильный код(правильный 1234:))");
+        }
     }
 }
 
